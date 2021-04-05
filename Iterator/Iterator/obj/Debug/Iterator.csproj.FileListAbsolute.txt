@@ -1,0 +1,6 @@
+/Users/eduardoreis/Documents/GitHub/Iterator/Iterator/bin/Debug/Iterator.exe
+/Users/eduardoreis/Documents/GitHub/Iterator/Iterator/bin/Debug/Iterator.pdb
+/Users/eduardoreis/Documents/GitHub/Iterator/Iterator/obj/Debug/Iterator.csprojAssemblyReference.cache
+/Users/eduardoreis/Documents/GitHub/Iterator/Iterator/obj/Debug/Iterator.csproj.CoreCompileInputs.cache
+/Users/eduardoreis/Documents/GitHub/Iterator/Iterator/obj/Debug/Iterator.exe
+/Users/eduardoreis/Documents/GitHub/Iterator/Iterator/obj/Debug/Iterator.pdb
